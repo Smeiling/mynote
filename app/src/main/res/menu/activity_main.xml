@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_search"
+        android:orderInCategory="103"
+        android:showAsAction="ifRoom"
+        android:title="search" />
+    <!--<item-->
+        <!--android:id="@+id/action_edit"-->
+        <!--android:icon="@android:drawable/ic_menu_edit"-->
+        <!--android:orderInCategory="105"-->
+        <!--android:showAsAction="ifRoom"-->
+        <!--android:title="edit" />-->
+</menu>

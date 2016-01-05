@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">记事本</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="edit">EDIT</string>
+    <string name="save">SAVE</string>
+    <string name="save_success">保存成功！</string>
+    <string name="login_success">登录成功！</string>
+    <string name="register_success">注册成功！</string>
+    <string name="add_new_note">新建文档</string>
+    <string name="logout">退出登录</string>
+    <string name="sure_to_quit">确认退出？</string>
+    <string name="sure_to_delete">确认删除？</string>
+    <string name="sure_to_savechange">确认保存修改？</string>
+    <string name="wrong_login_data">用户名或密码错误！</string>
+    <string name="exist_username">用户名已存在！</string>
+    <string name="diff_password">两次密码输入不一致！</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="empty"></string>
+</resources>
